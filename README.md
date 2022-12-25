@@ -1,6 +1,6 @@
 # Unity Localization Tool
 
-The goal of this project is to create a localization system for a game using the Unity3D Editor API. The system allows for easy text editing in multiple languages and enable the game to seamlessly switch between languages. This project is developed in C# using Unity3D Editor API, ScriptableObjects, CustomEditors and OOP. 
+The goal of this project is to create a localization system for a game using the Unity3D Editor API. The system allows for easy text editing in multiple languages and enable the game to seamlessly switch between languages. This project is developed in C# using Unity3D Editor API, ScriptableObjects, CustomEditors and OOP. (2022).
 
 #### This Localization Tool:
 * Defines a set of **ScriptableObject** classes that store multiple strings for each language
